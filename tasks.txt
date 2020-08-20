@@ -1,0 +1,8 @@
+admin, Register Users with task_manager.py, Use task_manager to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+darryl, Video editing, Edit the videos for Sunday morning service, 14 Aug 2020, 25 Aug 2020, No
+gary, Create code, Create a code for a basic program, 14 Aug 2020, 20 Aug 2020, Yes
+marcel, Debug code, Go through a complex code that's not working and debug it to make it functional, 14 Aug 2020, 12 Oct 2020, Yes
+gary, Clean the house, Make sure everything is clean and neat and wash the dishes, 14 Aug 2020, 15 Aug 2020, No
+marcel, Go hunting, Go on a google hunt for solutions, 14 Aug 2020, 20 Aug 2020, No
+marcel, code, python, 14 Aug 2020, 15 10 2020, No
